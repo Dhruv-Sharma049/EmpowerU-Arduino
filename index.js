@@ -19,7 +19,6 @@ const MongoClient = require("mongodb").MongoClient;
 const app = express();
 const port = 3000; // Choose the port you want to use
 
-// Replace with your MongoDB Atlas connection string
 const uri =
   "mongodb+srv://akkadbakkad:akkadbakkad@cluster0.3dxvitq.mongodb.net/";
 
